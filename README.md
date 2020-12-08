@@ -9,3 +9,7 @@ Agile board
 
 
 ![12](https://user-images.githubusercontent.com/42799799/101523051-15eedb00-39ae-11eb-8262-fc03abd2b565.png)
+
+Communication plan
+
+
