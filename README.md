@@ -12,4 +12,5 @@ Agile board
 
 Communication plan
 
+![13](https://user-images.githubusercontent.com/42799799/101523582-cceb5680-39ae-11eb-832f-d26ea9d244ed.png)
 
