@@ -4,11 +4,12 @@ This is an Ecommerce site for a small scale business group that manage their bus
 In this project I took the place of project manager.
 
 Contribution as a PM
+
     1. project proposal
-    2. Project charter
-    3. Project status report
-    4. Action an Issue tracker
-    5. Network diagrams, WBS, User story Map
+    2. Project charter    
+    3. Project status report    
+    4. Action an Issue tracker    
+    5. Network diagrams, WBS, User story Map    
     6. Backlog, Sprints, User story writing
     7. Risk management
     8. Communication plan
